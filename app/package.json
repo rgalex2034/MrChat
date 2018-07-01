@@ -1,0 +1,14 @@
+{
+    "name": "mrchat",
+    "version": "0.0.1",
+    "description": "Simple node chat",
+    "scripts": {
+        "start": "npm install && nodemon app.js"
+    },
+    "author": "Alex & Adrià",
+    "license": "MIT",
+    "dependencies": {
+        "express": "latest",
+        "ws": "latest",
+    }
+}
