@@ -9,6 +9,6 @@
     "license": "MIT",
     "dependencies": {
         "express": "latest",
-        "ws": "latest",
+        "ws": "latest"
     }
 }
